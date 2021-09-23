@@ -1,0 +1,16 @@
+.cart{
+    padding-left: 20px;
+   
+}
+.btn-cart{
+    background-color: goldenrod;
+    width:150px;
+    height:25px;
+    border:1px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.total{
+    color:red;
+    font-weight: 700;
+}
